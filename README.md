@@ -289,13 +289,6 @@ VITE_API_URL=https://taskflow-production-b105.up.railway.app/api
 
 ---
 
-## 📦 Submission
-
-- **Live URL:** https://taskflow-pro.up.railway.app
-- **GitHub Repo:** https://github.com/rajthakur26/taskflow
-- **Backend API:** https://taskflow-production-b105.up.railway.app/api/health
-
----
 
 ## 📝 License
 
